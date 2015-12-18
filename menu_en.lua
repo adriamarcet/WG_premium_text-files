@@ -20,18 +20,16 @@ btnRules = "Rules",
 			
 
 savedGames = "Saved Games", 
-smsDelete1 = "Delete a game to can create a ",
+smsDelete1 = "Delete a game to create a ",
 smsDelete2 = "new one",
 
-smsDeletePop = "Do you want to delete",
-			
+smsDeletePop = "Do you want to delete the game",
 
 --negras
-smsCoinsView = "You get 125 Bunnycoins, for watch an ad.",
-smsCoinsDownload = "You get 350 Bunnycoins, for watch an ad and download it.",
-errorNC1 = "There isn't internet conection",
-errorNC2 ="Please reconect before trying it again."
-	
+-- smsCoinsView = "You get 125 Bunnycoins, for watch an ad.",
+-- smsCoinsDownload = "You get 350 Bunnycoins, for watch an ad and download it.",
+-- errorNC1 = "There isn't internet conection",
+-- errorNC2 ="Please reconect before trying it again."
 }
 
 return tableText
