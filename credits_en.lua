@@ -19,7 +19,7 @@ local tableText = {
 	"Traductores",
 	"Español Latino", "Guillermo Issa Martínez",
 	"Deustch",	"Lucia Castro",
-	"Français",	"Julia Bergas",
+	"Français",	"Jean-Noel Guenot",
 	"Português",	"Marina Forato",
 	"English",	"Jofre Bellés",
 	"Italiano",	"Esther Guerini",

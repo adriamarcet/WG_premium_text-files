@@ -8,7 +8,6 @@ newGame = "Crear nueva partida",
 friendDuel = "Retar amigo",
 randomDuel = "Rival aleatorio",
 waitingForOpponent = "Esperando oponente ...",
-acceptDuel = "Do you accept the challenge from"
 --<< END translate >>--
 }
 

@@ -8,8 +8,9 @@ local tableText = {
 	btnClasic = "Modo Clásico",
 	btnDuel = "Modo Duelo",
 	btnOnline = "Jugar Online",
-	--btnGetCoins = "Gana monedas",	
+	
 	btnShop = "Tienda",
+	--btnGetCoins = "Gana monedas",
 	btnHowPlay = "Còmo jugar",
 	btnTuto = "Tutorial",
 	btnRules = "Reglas",
