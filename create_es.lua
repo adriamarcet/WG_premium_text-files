@@ -1,7 +1,6 @@
 --<< Textos del createGame >>--
 
 local tableText = {
-	
 	--blancas
 	--<< START translate >>--
 	title1 = "Elige el nùmero de jugadores",
@@ -27,7 +26,7 @@ local tableText = {
 	ia = "Robot",
 	easy = "Fácil",
 	medium = "Media",
-	hard = "Dificil",
+	hard = "Difícil",
 	--<< END translate >>--
 }
 

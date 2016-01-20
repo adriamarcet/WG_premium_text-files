@@ -19,7 +19,7 @@ local tableText = {
 	azul = "azul",
 	amarillo = "amarillo",
 	rojo = "rojo",
-	blanco = "blanco",,
+	blanco = "blanco",
 
 	btnSetSalir     ="Guardar y salir",
 	btnSetContinuar = "Continuar jugando",
