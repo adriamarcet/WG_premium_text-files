@@ -1,36 +1,30 @@
-
 local tableText = {
-	
-	"Basado en \"Gardens\" creado por", "Pere Pau Listosella" ,
-	"Diseño de juego adicional","Sergi Marcet",
-	"Jefe de programación","Adrián Ramírez",
+	--<< START translate >>--
+	"Based on  \"Gardens\" created by", "Pere Pau Listosella" ,
+	"Additional design","Sergi Marcet",
+	"Lead programmer","Adrián Ramírez",
 	"\n","",
-	"Arte y animación", 		"Sergi Marcet",
-	"Coordinador de proyecto", "Adrià Marcet",
-	"Efectos de sonido","Carlos del Pozo",
-	"Tema principal \"Goblin Kingdom\"", "Chris Egan",
+	"Art and animation", 
+	"Project manager", "Adrià Marcet",
+	"Sound effects","Carlos del Pozo",
+	"Main theme\"Goblin Kingdom\"", "Chris Egan",
 	"\n","",
-	"Curadores/as",
+	"Testers",
 	"Adrià Marcet",
 	"Eva Santos",
 	"Lluna Pinado",
 	"Pilar Azpiroz",
 	"\n"," ",
-	"Traductores",
+	"Translators",
 	"Español Latino", "Guillermo Issa Martínez",
-	"Deustch",	"Lucia Castro",
-	"Français",	"Julia Bergas",
-	"Português",	"Marina Forato",
-	"English",	"Jofre Bellés",
-	"Italiano",	"Esther Guerini",
-
-	"Agradecimientos",	
-	"Este juego no podría haber sido posible sin la valiosa ayuda de", "Lorenzo Ramírez, Carmenchi Sánchez,",
-	"y todos los amigos y familiares que nos han apoyado en este proyecto. "	
-
-
-
-
+	"Deustch","Lucia Castro",
+	"Français","Jean-Noel Guenot",
+	"Português","Marina Forato",
+	"English","Jofre Bellés",
+	"Italiano","Esther Guerini",
+	"Acknowledgment",
+	"This game wouldn´t be possible without the valuable help of", "Lorenzo Ramírez, Carmenchi Sánchez,",
+	"and all friends and family who suported this project."
+	--<< END translate >>--
 }
-
 return tableText
