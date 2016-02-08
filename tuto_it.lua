@@ -1,20 +1,14 @@
-
 --<< Textos del tutorial >>--
-
 local tableText = {
-
 	blancas = {
 		--<< START translate >>--
 		btnSetSalir     = "Chiudi tutorial",
 		btnSetContinuar = "Continua a giocare",
-
 		btnFinAcabar    = "Chiudi",
 		btnFinContinuar = "Continua"
 		--<< END translate >>--	
 	},
-
 	negras = {
-		--<< START translate // transform && for \n and remove line comments (--<<)when applied >>--
 		"Benvenuto nel Paese delle Meraviglie!\nSono Alice, la tua guida di Wonder Gardens. Ti insegnerò tutto quello che devi sapere per giocare...\n e vincere!",
 		"Nel ruolo di emissario di una delle quattro regine, la tua missione è colorare tutte le rose del suo colore!",
 		"Che il gioco abbia inizio! In questa partita tu sei il giocatore ROSSO, e sarai l'ultimo dei giocatori che giocherà il proprio turno...",
@@ -38,16 +32,9 @@ local tableText = {
 		"Perfetto! Come al solito, scegli il sentiero adatto al tuo secondo soldato e completa il tuo turno toccando il pulsante \"OK\" .",
 		"È di nuovo il tuo turno! È ora di usare la tua tessera magica! Una volta per partita hai la possibilità di tramutare la tua tessera attuale in una tessera magica che avrà le sue 4 sezioni del tuo colore",
 		"Tocca il tuo simbolo magico nella forma a cuore per attivarlo, poi posiziona la tessera nella posizione indicata.",
-		--changed
 		"Questo è tutto quello che devi sapere per giocare!\nDivertiti giocando con i tuoi amici e ricorda che puoi ottenere nuovi cappelli e armi usando le Monete coniglio.\nVisita il negozio per personalizzare i tuoi soldati.\nA presto!",
-		--spanish change
-		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
-		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
-		
-
+		"¡Get hats and polearms with Bunnycoins earned at the and of a game. && You can visit Mad Hatter´s shop to customize your soldier. && See you soon!",
 		"Hai finito il tutorial, vuoi continuare la partita per raggiungere i 7 punti?",
-		--<< END translate >>--
 	}
 }
-
 return tableText

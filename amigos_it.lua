@@ -1,14 +1,9 @@
-
 local tableText = {
-	
---blancas
-title = "Amigos",
-addFriend = "Añadir amigo",
-addWithGame = "Añadir más amigos con ...",
-pressing = "Añade amigos presionado \"+\"",
-solicitud = "El siguiente usuario quiere ser tu amigo",
-notLogged = "No has activado tu cuenta de usuario, si quieres invitar amigos necesitas entra con tu cuenta o crear una nueva. \nPuedes crear tu cuenta desde el menu de opciones."
-
+	title = "Friends",
+	addFriend = "Add friend",
+	addWithGame = "Add more friends with ...",
+	pressing = "Add more friends by pressing \"+\"",
+	solicitud = "The following user wants to be your friend",
+	notLogged = "You are not logged in, to invite friends log in or create a new account. \nYou can do that in the options menu."
 }
-
 return tableText

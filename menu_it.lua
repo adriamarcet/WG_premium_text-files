@@ -1,34 +1,25 @@
 --<< Textos del menu principal >>--
-
 local tableText = {
-
 	--blancas
-	
-	btnPlay = "Play Local",
-	btnOnline = "Play Online",
+	btnPlay = "Play Local IT",
+	btnClasic = "Classic Mode IT",
+	btnDuel = "Duel Mode IT",
+	btnOnline = "Play Online IT",
+	btnShop = "Mad Hatter´s Shop IT",
 
-	btnClasic = "Clasic Mode",
-	btnDuel = "Duel Mode",
-	btnNewGame = "New Game",
-				
-	btnShop = "Shop",
-	--btnGetCoins = "Get coins",
-	btnHowPlay = "How to play",
-
+	btnHowPlay = "Come giocare",
 	btnTuto = "Tutorial",
-	btnRules = "Rules",
-				
-
-	savedGames = "Saved Games", 
-	smsDelete1 = "Delete a game to can create a ",
-	smsDelete2 = "new one",
-
-	smsDeletePop = "Do you want to delete",
-				
+	btnRules = "Regole del gioco",
+	btnNewGame = "Nuova partita",
+	savedGames = "Partite salvate", 
+	smsDelete1 = "Elimina una partita salvata a",
+	smsDelete2 = "Creane una nuova",
+	smsDeletePop = "Vuoi eliminare la partita?"				
 
 	--negras
-	errorNC1 = "There isn't internet conection",
-	errorNC2 ="Please reconect before trying it again."
+	--<< START translate >>--
+	errorNC1 = "Non sei connesso a internet",
+	errorNC2 ="Controlla la tua connessione internet e riprova",
+	--<< END translate >>--
 }
-
 return tableText
