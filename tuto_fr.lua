@@ -37,7 +37,14 @@ local tableText = {
 		"Bien joué! Comme avant, choisis le bon chemin pour ton second soldat et finis ton tour en cliquant sur le bouton \"OK\".",
 		"Encore à ton tour! C'est le moment d'utiliser ta case magique! Une fois par partie, tu peux transformer ta case actuelle en une case magique avec les 4 portions de ta couleur.",
 		"Clique sur le symbole magique en forme de cœur pour l'activer, place ensuite la case sur la position indiquée.",
+		--changed
 		"C'est tout ce que tu as besoin de savoir pour jouer!\nAmuse-toi avec tes amis et n'oublie pas que tu peux obtenir de nouveau chapeaux et armes avec les Pièces Lapin.\nTu peux visiter la boutique pour personnaliser tes soldats.\nÀ bientôt!",
+		--spanish change
+		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
+		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+
+
+
 		"Tu viens de terminer le tutoriel, veux-tu continuer la partie jusqu'à 7 points?",
 		--<< END translate >>--
 	}

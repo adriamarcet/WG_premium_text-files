@@ -14,7 +14,7 @@ local tableText = {
 	negras = {
 		--<< START translate // transform && for \n and remove line comments (--<<)when applied >>--
 		"¡Bienvenido al País de las Maravillas!\nSoy Alicia, tu guía en Wonder Gardens. Te enseñaré todo lo que hay que saber para jugar…\n¡y ganar!",
-		"¡Como enviado de una de las 4 reinas, tu misión es pintar todas las rosas con su color!",
+		"¡Como enviado de una de las 4 reinas, tu misión es pintar todas las rosas de su color!",
 		"¡Empieza la partida! En esta partida eres el jugador ROJO, y en este caso el último en jugar...",
 		"¡Te toca! Coloca tu loseta tocando en la posición que te indico o arrastrándola con el dedo.",
 		"Ahora pulsa sobre la loseta para hacerla rotar y que haya 2 porciones rojas en el rosal. (Solo rotará de manera que coincidan sus caminos con los de las losetas contiguas)" ,
@@ -36,8 +36,11 @@ local tableText = {
 		"¡Muy bien! Como siempre escoge el camino ideal para tu otro soldado y termina el turno pulsando el botón \"OK\".",
 		"¡Vuelve a ser tu turno! Es hora de usar tu loseta mágica! Una vez por partida puedes convertir tu loseta actual en una loseta mágica con las 4 porciones de tu color.",
 		"Pulsa el botón de tu símbolo de corazón para activarlo, y después colócala en la posición indicada.",
-		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en modo clásico y duelo , puedes jugar en el mismo dispositivo o online.",
-		"¡Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+		--modificado
+		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
+		--nuevo
+		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+		-----------
 		"Has terminado el tutorial, ¿quieres continuar la partida hasta los 7 puntos?",
 		--<< END translate >>--
 		}

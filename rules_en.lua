@@ -11,6 +11,8 @@ local tableText = {
 		pag4 = "DISCARDING TILES",
 		pag5 = "THE MAGIC TILE",
 		pag6 = "PLACING YOUR SECOND SOLDIER",
+
+		pag7 = "MODO DUELO",
 		--<< END translate >>--			
 	},
 
@@ -20,9 +22,31 @@ local tableText = {
 		pag2  = "When a rosebush is completed, if the majority of the bush is one color, the rosebush becomes painted entirely that color, and that player scores 1 point.",
 		pag2b = "Null point: \nIf there is a tie between colors when a rosebush is completed, the rosebush will disappear and no player will score a point (Eg. Each portion of a different color, or half and half).", 
 		pag3  = "Each turn, you get a new tile to place in the garden. \nYou can only place a tile on the board if one of your soldiers can get to it (All available positions will be illuminated with your color). \nRival soldiers block your soldiers' path, preventing you from placing tiles in some parts of the board. \nWhen placing a tile, the paths must match the adjacent tiles on the board. \nYou can rotate a tile by clicking on it, the tile will only rotate into valid positions. \nAfter placing a tile in the garden your soldier will move to it. \nIf you have a 2nd soldier in play you will be able to move it to block your rivals. If only one soldier is in play, your turn will immediately end.",
-		pag4  = "Should you not want to place the new tile in the garden, you can discard it by dragging it into the discard hat. (Located in the lower right corner of the screen). \nAfter you have confirmed this action by pressing "OK ", a soldier of your choice will be removed from the garden and go back to the soldiers' reserve. \nIn your next turn you’ll be able to put that soldier in play again.",
+		pag4  = "Should you not want to place the new tile in the garden, you can discard it by dragging it into the discard hat. (Located in the lower right corner of the screen). \nAfter you have confirmed this action by pressing \"OK\", a soldier of your choice will be removed from the garden and go back to the soldiers' reserve. \nIn your next turn you’ll be able to put that soldier in play again.",
 		pag5  = "If you click on your queen’s Icon, your current tile will turn into a magic one, with 4 portions of your color. \nClicking on the icon again will turn the tile back to its original state. \nYou can only use that ability once per game, so use it wisely!",
 		pag6  = "A second soldier is at your disposal in the soldiers' reserve (at the top right of the screen) Each time you place a tile in the garden you may add this soldier to it and put it in play.\nThis allows you to place the tile in many more places, since there are no rival soldiers blocking your way.\nYou can do that by clicking on the soldier icon in the reserve.\nOnce you have both soldiers in play, after placing a tile you’ll be able to move your second soldier to block your rivals.",
+		
+		pag7 = "En el modo duelo se enfrentan solo el equipo rojo contra el equipo azul, y la victoria es a 5 puntos.\nAdemás hay dos torres en juego que los jugadores pueden mover para bloquear a su oponente. Por lo demás las reglas son las mismas que en el modo clásico.\n\nAl completar un rosal con una mayoria de porciones blancas, recibes un movimiento de torre.\nAl final de tu turno, puedes mover una de las dos torres gastando un movimiento de torre.\nUna torre mueve de la misma forma que un soldado y bloquea el camino a todos los soldados en juego. Cuando hayas movido una de las torres y confirmado el movimiento apretando ”OK”, tu turno acabará inmediatamente. ( si no quieres mover ninguna torre solo aprieta ”OK”)",
+		--<< END translate >>--
+	},
+
+	peusFoto = {
+
+		--<< START translate // transform && for \n when applied >>--
+		pag1  =	"Mayoria de rojo = punto jugador rojo" ,
+		pag1b  =  "Igualdad de colores = Punto nulo" ,
+
+		pag3  = "Arrastra la loseta al tablero",
+		pag3b  = "Presiona en la loseta para rotar",
+
+		pag4  =	 "Al descartar loseta recuperas soldado",
+
+		pag5  =	"Aprieta el símbolo para transformar la loseta una vez por partida",
+
+		pag6 = "Aprieta el icono de soldado para añadirlo a tu loseta actual",
+	
+		pag7 =	"Ganas 1 punto de torre",
+		pag7b = "Puedes mover 1 torre gastando 1 punto de torre",
 		--<< END translate >>--
 	}
 }

@@ -2,8 +2,7 @@
 
 local tableText = {
 	
-	blancas = {
-		--<< START translate >>--
+	["blancas"] = {
 		title = "Impostazioni",
 		account = "Impostazioni account",
 		volume = "Audio e lingua",
@@ -11,6 +10,9 @@ local tableText = {
 		sound = "Souni",
 		idiom = "Lingua",
 		credits = "Riconoscimenti",
+
+		showCredits = "Show Credits",
+
 		followFB = "Seguici su Facebook",
 		closeUser = "Esci",
 		createUser = "Crea un account",
@@ -18,15 +20,15 @@ local tableText = {
 		createCaja = "Crea un nuovo account",
 
 		identificate = "Accedi",
-		cancel = "Annulla",
-		--<< END translate >>--
+		cancel = "Annulla"
+		
 	},
 
-	negras = {
+	["negras"] = {
 
 		--<< START translate >>--
 		credits = "Wonder Gardens è stato progettato e programmato da Playtypus. Basandosi sul gioco da tavolo \"Gardens\", creato da Perepau Llistosella." ,
-		username = "Nome utente",
+		username = "Utente",
 		signup = "Non hai effettuato l'accesso",
 		conect = "Accedi come:",
 		ooo = "O",
@@ -48,7 +50,7 @@ local tableText = {
 		errorCreateC2 = "           numeri e/o lettere.",
 		
 		errorCreateD1 = "Errore: L'indirizzo e-mail inserito ",
-		errorCreateD2 = "           è già in uso.",
+		errorCreateD2 = "           è già in uso."
 		--<< END translate >>--
 	} 
 }

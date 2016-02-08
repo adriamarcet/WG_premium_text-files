@@ -11,6 +11,9 @@ local tableText = {
 		sound = "Audio",
 		idiom = "Langue",
 		credits = "Crédits",
+
+		showCredits = "Show Credits",
+
 		followFB = "Nous suivre sur Facebook",
 		closeUser = "Se déconnecter",
 		createUser = "Créer un compte",
@@ -26,7 +29,7 @@ local tableText = {
 		--<< START translate >>--
 		credits = "Wonder Gardens a été conçu et développé par Playtypus. Basé sur le jeu de plateau original \"Gardens\", créé par Pere Pau Listosella." ,
 		
-		username = "Nom d'utilisateur",
+		username = "Utilisateur",
 		signup = "Tu n'es pas connecté",
 		conect = "Se connecter avec :",
 		ooo = "Ou",

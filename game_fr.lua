@@ -12,14 +12,11 @@ local tableText = {
 	movimientoTorre = { 
 		["01"]   = "Choisis une tour",
 		["02"]  = " et déplace-la",
-		both = "tout",
-		blanco = "blanc",
-		amarillo = "jaune",
 	},
-	azul = "bleu",
-	rojo = "rouge",
-	blanco = "blanc",
-	amarillo = "jaune",
+	-- azul = "bleu",
+	-- rojo = "rouge",
+	-- blanco = "blanc",
+	-- amarillo = "jaune",
 	
 	btnSetSalir     ="Sauver et quitter",
 	btnSetContinuar = "Continuer",
@@ -27,6 +24,18 @@ local tableText = {
 	nameSaveGame = "Nom de la sauvegarde",
 	--<< END translate >>--
 
+	----------text nou--------------
+	gameName = "Game ",
+
+	clasificacion = "Clasification",
+	winner = "Winner!",
+	loserDuelo = "Loser",
+
+	waitingPlayer = "Waiting for opponent",
+
+	mensajeConejoMonedas1 = "You get ", --X
+	mensajeConejoMonedas2 = "BunnyCoin",
+	--------------------------------
 	--negras
 	--<< START translate >>--
 	error1 = "           doit contenir moins de 15 caractères",

@@ -36,7 +36,14 @@ local tableText = {
 		"¡Muy bien! Como siempre, escoge el camino ideal para tu otro soldado y termina el turno oprimiendo el botón \"OK\".",
 		"¡Vuelve a ser tu turno! ¡Es hora de usar tu baldosa mágica! Una vez por juego puedes convertir tu baldosa actual en una baldosa mágica con las 4 porciones de tu color.",
 		"Oprime el botón de tu símbolo de corazón para activarlo, y después colóca la baldosa en la posición indicada.",
+		--changed
 		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos y consigue sombreros o armas con las Conejomonedas.\nPuedes visitar la tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+		--spanish change
+		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
+		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+
+
+
 		"Terminaste el tutorial, ¿quieres continuar el juego hasta los 7 puntos?",
 		--<< END translate >>--
 	}

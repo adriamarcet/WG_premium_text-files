@@ -14,16 +14,16 @@ local tableText = {
 	doyouwantH = "questo copricapo?",
 	doyouwantS = "questa scure?",
 
-	notEnoCoin1 = "Non possiedi abbastanza monete",
-	notEnoCoin2 = "Monete coniglio a",
-	notEnoCoinH = "compra questo copricapo.",
-	notEnoCoinS = "compra questa scure.",
-	titleBuyBunny = "Compra Monete coniglio",
-	--<< END translate >>--
+	-- notEnoCoin1 = "Non possiedi abbastanza monete",
+	-- notEnoCoin2 = "Monete coniglio a",
+	-- notEnoCoinH = "compra questo copricapo.",
+	-- notEnoCoinS = "compra questa scure.",
+	-- titleBuyBunny = "Compra Monete coniglio",
+	-- --<< END translate >>--
 
-	--negras
-	--<< START translate >>--
-	freeAd = "Liberati per sempre dagli annunci durante gli acquisti!",
+	-- --negras
+	-- --<< START translate >>--
+	-- freeAd = "Liberati per sempre dagli annunci durante gli acquisti!",
 	--<< END translate >>--
 }
 

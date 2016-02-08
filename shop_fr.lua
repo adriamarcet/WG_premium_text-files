@@ -14,17 +14,13 @@ local tableText = {
 	doyouwantH = "ce chapeau ?",
 	doyouwantS = "cette lance ?",
 	
-	notEnoCoin1 = "Tu n'as pas assez",
-	notEnoCoin2 = "de Pièces Lapin pour",
-	notEnoCoinH = "acheter ce chapeau.",
-	notEnoCoinS = "acheter cette lance.",
+	-- notEnoCoin1 = "Tu n'as pas assez",
+	-- notEnoCoin2 = "de Pièces Lapin pour",
+	-- notEnoCoinH = "acheter ce chapeau.",
+	-- notEnoCoinS = "acheter cette lance.",
 	
-	titleBuyBunny = "Acheter des Pièces Lapin",
-	--<< END translate >>--
-
-	--negras
-	--<< START translate >>--
-	freeAd = "Débarrasse-toi de ces publicités en faisant un achat !",
+	-- titleBuyBunny = "Acheter des Pièces Lapin",
+	-- freeAd = "Débarrasse-toi de ces publicités en faisant un achat !",
 	--<< END translate >>--
 }
 

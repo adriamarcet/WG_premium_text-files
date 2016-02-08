@@ -37,7 +37,14 @@ local tableText = {
 		"Muito bem! Como sempre, escolha o caminho ideal para o seu outro soldado e acabe o turno clicando no botão \"OK\".",
 		"É a sua vez de novo! É hora de usar o seu azulejo mágico! Uma vez por jogo você poderá transformar o seu azulejo atual em um azulejo mágico com 4 porções da sua cor.",
 		"Clique no botão com o seu símbolo de coração para ativá-lo, e depois, coloque-o na posição indicada.",
+		--changed
 		"Isso é tudo o que você precisa saber para jogar!\nDivirta-se jogando com seus amigos e consiga chapéus ou armas com as Coelhomoedas.\nVisite a loja para personalizar os seus soldados.\nAté logo!",
+		--spanish change
+		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
+		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+		
+
+
 		"Você concluiu o tutorial, quer continuar o jogo até conseguir os 7 pontos?",
 		--<< END translate >>--	
 	}

@@ -9,20 +9,24 @@ local tableText = {
 	threeplayer = "3 players",
 	fourplayer = "4 players",
 
-	title2 = "New Game",
+	---------nou----------
+	clasica = "Clasic Mode",
+	duelo   = "Duel Mode",
+	online  = "Online Mode",
+	----------------------
+
 	playerHud = "Players",
-	azul = "Blue",
-	blanco = "White",
-	rojo = "Yellow",
-	amarillo = "Red",
+	--azul = "Blue",
+	--blanco = "White",
+	--rojo = "Yellow",
+	--amarillo = "Red",
 
 	btnPlay = "Play",
 	--<< END translate >>--
 
 	--negras
 	--<< START translate >>--
-	level = "Difficulty",
-	player = "Human",
+	player = "Player",
 	ia = "Robot",
 	easy = "Easy",
 	medium = "Medium",

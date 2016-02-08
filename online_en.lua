@@ -6,8 +6,7 @@ urTurn = "It's your turn!",
 newGame = "Create new game",
 friendDuel = "Challenge friend",
 randomDuel = "Random Opponent",
-waitingForOpponent = "Waiting for opponent ...",
-acceptDuel = "Do you accept the challenge from"
+waitingForOpponent = "Waiting for opponent",
 }
 
 return tableText

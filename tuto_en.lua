@@ -22,8 +22,8 @@ local tableText = {
 		"Now click on the tile itself to make it rotate till there are 2 red portions on the rosebush. (It will only rotate so that the paths coincide with those on the adjacent tiles)" ,
 		"Now click the \"OK\" button to accept  and complete the rosebush.",
 		"Well done! One of your soldiers will move to the tile you just placed." ,
-		"Your turn again. Time to score a point! When you complete a rosebush, if the majority of portions are of your color, you will earn 1 point.",
-		"When you complete a rosebush, all of its portions will turn into the predominant color and that player will score 1 point. But the bush will disappear if there is a tie between colors.",
+		"Your turn again. ¡Time to score a point! When you complete a rosebush , if the majority of portions are of your color, you will earn 1 point.",
+		"When you complete a rosebush, all of it's portions will turn the predominant color and that player will score 1 point. But the bush will disappear if there is a tie between colors.",
 		"Place and rotate the new tile in the right position to complete the rosebush and score a point!",
 		"Great! You scored your first point ! The winner is the first to score 7 points.\nBut watch out ! At the same time, you could make other players score points too.",
 		"Your turn again! Placing your new tile here would be great, but the rival soldiers block your way.\nYou can only place a tile on the board if your soldiers can move to it.",
@@ -38,7 +38,14 @@ local tableText = {
 		"Well done! As usual choose the right path for your second soldier and finish your turn by pressing the \" OK\" button.",
 		"Your turn again! It's time to use your magic tile ! Once per game you can turn your current tile into a magic tile with all 4 portions of your color.",
 		"Press your magic symbol in the shape of a heart to activate it, and then place the tile in the marked position.",
+		
+		--changed
 		"That's all you need to know to play!\nHave fun playing with your friends and remember you can get new hats and weapons with Bunnycoins.\nYou can visit the shop to customize your soldiers . \n¡See you Soon!",
+		--spanish change
+		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
+		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
+
+
 		"You’ve finished the tutorial, do you want to continue the game to 7 points?",
 		--<< END translate >>--		
 	}

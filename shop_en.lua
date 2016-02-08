@@ -14,17 +14,17 @@ local tableText = {
 	doyouwantH = "this hat?",
 	doyouwantS = "this polearm?",
 
-	notEnoCoin1 = "You don't have enough",
-	notEnoCoin2 = "Bunnycoins to",
-	notEnoCoinH = "buy this hat.",
-	notEnoCoinS = "buy this polearm.",
-	titleBuyBunny = "Buy bunnycoins",
-	--<< END translate >>--
+	-- notEnoCoin1 = "You don't have enough",
+	-- notEnoCoin2 = "Bunnycoins to",
+	-- notEnoCoinH = "buy this hat.",
+	-- notEnoCoinS = "buy this polearm.",
+	-- titleBuyBunny = "Buy bunnycoins",
+	-- --<< END translate >>--
 
-	--negras
-	--<< START translate >>--
-	freeAd = "Get rid of ads forever when you make a purchase!",
-	--<< END translate >>--
+	-- --negras
+	-- --<< START translate >>--
+	-- freeAd = "Get rid of ads forever when you make a purchase!",
+	-- --<< END translate >>--
 }
 
 return tableText

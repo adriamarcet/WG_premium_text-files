@@ -8,9 +8,12 @@ local tableText = {
 		account = "Account settings",
 		volume = "Sound and language",
 		music = "Music",
-		sound = "Audio",
+		sound = "Sound",
 		idiom = "Language",
 		credits = "Credits",
+
+		showCredits = "Show Credits",
+
 		followFB = "Follow us on Facebook",
 		closeUser = "Log out",
 		createUser = "Create account",
@@ -19,6 +22,8 @@ local tableText = {
 
 		identificate = "Log In",
 		cancel = "Cancel",
+
+
 		--<< END translate >>--
 	},
 
@@ -26,7 +31,7 @@ local tableText = {
 		--<< START translate >>--
 		credits = "Wonder Gardens has been designed and developed by Playtypus. Based on the original boardgame \"Gardens\", created by Pere Pau Listosella." ,
 
-		username = "Username",
+		username = "User",
 		signup = "You are not logged in",
 		conect = "Log in using:",
 		ooo = "Or",
@@ -51,6 +56,7 @@ local tableText = {
 		errorCreateD2 = "           exists.",
 		--<< END translate >>--
 	} 
+
 }
 
 return tableText
