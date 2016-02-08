@@ -1,5 +1,4 @@
 --<< Textos del tutorial >>--
-
 local tableText = {
 
 	blancas = {
@@ -36,14 +35,10 @@ local tableText = {
 		"¡Muy bien! Como siempre escoge el camino ideal para tu otro soldado y termina el turno pulsando el botón \"OK\".",
 		"¡Vuelve a ser tu turno! Es hora de usar tu loseta mágica! Una vez por partida puedes convertir tu loseta actual en una loseta mágica con las 4 porciones de tu color.",
 		"Pulsa el botón de tu símbolo de corazón para activarlo, y después colócala en la posición indicada.",
-		--modificado
-		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clasico y modo duelo, puedes jugar en el mismo dispositivo o online.",
-		--nuevo
+		"¡Esto es todo lo que necesitas saber para jugar!\nDiviértete jugando con tus amigos en el modo clásico y modo duelo, puedes jugar en el mismo dispositivo o online.",
 		"Consigue sombreros y bastones con Conejomonedas que ganarás al finalizar una partida.\nPuedes visitar la Tienda para personalizar a tus soldados.\n¡Hasta Pronto!",
-		-----------
 		"Has terminado el tutorial, ¿quieres continuar la partida hasta los 7 puntos?",
 		--<< END translate >>--
-		}
 	}
-
+}
 return tableText

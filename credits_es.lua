@@ -1,4 +1,3 @@
-
 local tableText = {
 	
 	"Basado en \"Gardens\" creado por", "Pere Pau Listosella" ,
@@ -19,7 +18,7 @@ local tableText = {
 	"Traductores",
 	"Español Latino", "Guillermo Issa Martínez",
 	"Deustch",	"Lucia Castro",
-	"Français",	"Julia Bergas",
+	"Français", "Jean-Noel Guenot",
 	"Português",	"Marina Forato",
 	"English",	"Jofre Bellés",
 	"Italiano",	"Esther Guerini",
@@ -27,10 +26,5 @@ local tableText = {
 	"Agradecimientos",	
 	"Este juego no podría haber sido posible sin la valiosa ayuda de", "Lorenzo Ramírez, Carmenchi Sánchez,",
 	"y todos los amigos y familiares que nos han apoyado en este proyecto. "	
-
-
-
-
 }
-
 return tableText

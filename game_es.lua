@@ -13,17 +13,11 @@ local tableText = {
 		["02"]  = " y muévela",
 	},
 			
-	--azul = "azul",
-	--amarillo = "amarillo",
-	--rojo = "rojo",
-	--blanco = "blanco",
-
 	btnSetSalir     = "Guardar y salir",
 	btnSetContinuar = "Continuar jugando",
 
 	nameSaveGame = "Nombre de la partida guardada",
 
-	----------text nou--------------
 	gameName = "Partida ",
 
 	clasificacion = "Clasificación",
@@ -34,7 +28,6 @@ local tableText = {
 
 	mensajeConejoMonedas1 = "Has ganado ", --X
 	mensajeConejoMonedas2 = "Conejomonedas",
-	--------------------------------
 
 	--negras 
 	error1 = "           debe tener menos de 15 carácteres",

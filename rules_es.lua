@@ -11,7 +11,6 @@ local tableText = {
 		pag4 = "DESCARTANDO LOSETA",
 		pag5 = "LOSETA MÁGICA",
 		pag6 = "COLOCANDO SEGUNDO SOLDADO",
-		
 		pag7 = "MODO DUELO",
 		--<< END translate >>--
 	},
@@ -25,27 +24,19 @@ local tableText = {
 		pag4  = "Si no te interesa colocar la loseta nueva en el jardín, puedes descartarla arrastrandola al sombrero mágico de descarte situado en la esquina inferior derecha de la pantalla..\nAl confirmar la acción pulsando el botón \"OK\", uno de tus soldados desaparecerá del jardín,y volverá a la reserva de soldados.(en la parte superior derecha de la pantalla). Si tienes dos soldados en juego debes elegir qué soldado llevar a tu reserva.\nEn tu próximo turno podrás poner de nuevo en juego un soldado de la reserva.",
 		pag5  = "Al pulsar la insignia de tu color, transformarás la loseta que te ha tocado este turno en una loseta especial con las 4 porciones del parterre de tu color.\nAl pulsar el símbolo otra vez,la loseta volverá a su estado original.\nSólo puedes usar este poder mágico una vez, así que ¡úsalo sabiamente!",
 		pag6  = "En la reserva de soldados (en la parte superior derecha de la pantalla) dispones de un segundo soldado para añadir al jardín. Cada vez que colocas una loseta en el jardín puedes añadir uno de tus dos soldado para ponerlo en juego.\nEsto te permitirá colocarla en muchos más lugares, ya que ningún soldado rival te bloquea en ese momento.\nSi pulsas el icono del soldado de tu reserva el soldado se subirá a la loseta activa ese momento.\nUna vez tengas a tus dos soldados en juego, uno se moverá a la loseta que coloques, y seguidamente podrás mover el otro para bloquear el paso a los soldados rivales.",
-		
 		pag7 = "En el modo duelo se enfrentan solo el equipo rojo contra el equipo azul, y la victoria es a 5 puntos.\nAdemás hay dos torres en juego que los jugadores pueden mover para bloquear a su oponente. Por lo demás las reglas son las mismas que en el modo clásico.\n\nAl completar un rosal con una mayoria de porciones blancas, recibes un movimiento de torre.\nAl final de tu turno, puedes mover una de las dos torres gastando un movimiento de torre.\nUna torre mueve de la misma forma que un soldado y bloquea el camino a todos los soldados en juego. Cuando hayas movido una de las torres y confirmado el movimiento apretando ”OK”, tu turno acabará inmediatamente. ( si no quieres mover ninguna torre solo aprieta ”OK”)",
-	
 		--<< END translate >>--
 	},
 
 	peusFoto = {
-
 		--<< START translate // transform && for \n when applied >>--
 		pag1  =	"Mayoria de rojo = punto jugador rojo" ,
 		pag1b  =  "Igualdad de colores = Punto nulo" ,
-
 		pag3  = "Arrastra la loseta al tablero",
 		pag3b  = "Presiona en la loseta para rotar",
-
 		pag4  =	 "Al descartar loseta recuperas soldado",
-
 		pag5  =	"Aprieta el símbolo para transformar la loseta una vez por partida",
-
 		pag6 = "Aprieta el icono de soldado para añadirlo a tu loseta actual",
-	
 		pag7 =	"Ganas 1 punto de torre",
 		pag7b = "Puedes mover 1 torre gastando 1 punto de torre",
 		--<< END translate >>--
