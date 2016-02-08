@@ -4,15 +4,15 @@ local tableText = {
 
 	blancas = {
 		--<< START translate >>--
-		title = "Reglas",
-		pag1 = "OBJETIVO DEL JUEGO",
-		pag2 = "ANOTAR PUNTOS",
-		pag3 = "COLOCAR BALDOSAS",
-		pag4 = "DESCARTAR BALDOSA",
-		pag5 = "BALDOSA MÁGICA",
-		pag6 = "COLOCAR SEGUNDO SOLDADO",
+		title	= "Reglas",
+		pag1 	= "OBJETIVO DEL JUEGO",
+		pag2 	= "ANOTAR PUNTOS",
+		pag3 	= "COLOCAR BALDOSAS",
+		pag4 	= "DESCARTAR BALDOSA",
+		pag5 	= "BALDOSA MÀGICA",
+		pag6 	= "COLOCAR SEGUNDO SOLDADO",
 
-		pag7 = "MODO DUELO",
+		pag7 	= "MODO DUELO",
 		--<< END translate >>--
 	},
 
@@ -35,7 +35,7 @@ local tableText = {
 		--<< START translate // transform && for \n when applied >>--
 		pag1  =	"Mayoria de rojo = punto jugador rojo" ,
 		pag1b  =  "Igualdad de colores = Punto nulo" ,
-
+		
 		pag3  = "Arrastra la loseta al tablero",
 		pag3b  = "Presiona en la loseta para rotar",
 

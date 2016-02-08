@@ -1,11 +1,10 @@
-
 local tableText = {
-	
+	--<< START translate  remove comm. >>--
 	"Basado en \"Gardens\" creado por", "Pere Pau Listosella" ,
 	"Diseño de juego adicional","Sergi Marcet",
 	"Jefe de programación","Adrián Ramírez",
 	"\n","",
-	"Arte y animación", 		"Sergi Marcet",
+	"Arte y animación", 
 	"Coordinador de proyecto", "Adrià Marcet",
 	"Efectos de sonido","Carlos del Pozo",
 	"Tema principal \"Goblin Kingdom\"", "Chris Egan",
@@ -18,19 +17,15 @@ local tableText = {
 	"\n"," ",
 	"Traductores",
 	"Español Latino", "Guillermo Issa Martínez",
-	"Deustch",	"Lucia Castro",
-	"Français",	"Julia Bergas",
-	"Português",	"Marina Forato",
-	"English",	"Jofre Bellés",
-	"Italiano",	"Esther Guerini",
-
-	"Agradecimientos",	
+	"""Deustch"",	""Lucia Castro"","
+	"""Français"",	""Jean-Noel Guenot"","
+	"""Português"",	""Marina Forato"","
+	"""English"",	""Jofre Bellés"","
+	"""Italiano"",	""Esther Guerini"","
+	"Agradecimientos",
 	"Este juego no podría haber sido posible sin la valiosa ayuda de", "Lorenzo Ramírez, Carmenchi Sánchez,",
-	"y todos los amigos y familiares que nos han apoyado en este proyecto. "	
-
-
-
-
+	"y todos los amigos y familiares que nos han apoyado en este proyecto. "
+	--<< END translate >>--
 }
 
 return tableText

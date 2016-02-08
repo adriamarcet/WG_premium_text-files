@@ -1,27 +1,24 @@
 --<< Textos del settings scene >>--
-
 local tableText = {
 	
 	blancas = {
 		--<< START translate >>--
-		title = "Configuración",
-		account = "Gestión de cuenta",
+		title = "Configuraciòn",
+		account = "Gestiòn de cuenta",
 		volume = "Volumen e idioma",
-		music = "Música",
+		music = "Mùsica",
 		sound = "Sonido",
 		idiom = "Idioma",
-		credits = "Créditos",
-
+		credits = "Crèditos",
 
 		showCredits = "Show Credits",
 
-		followFB = "Síguenos en Facebook",
-		closeUser = "Cerrar sesión",
+		followFB = "Sìguenos en Facebook",
+		closeUser = "Cerrar sesiòn",
 		createUser = "Crear cuenta",
-		signup = "Iniciar sesión",
+		signup = "Iniciar sesiòn",
 		createCaja = "Creando cuenta nueva",
-
-		identificate = "Identifícate",
+		identificate = "Identifìcate",
 		cancel = "Cancelar",
 		--<< END translate >>--
 	},
@@ -29,7 +26,7 @@ local tableText = {
 	negras = {
 		--<< START translate >>--
 		credits = "Wonder Gardens fue desarrollado y diseñado por Playtypus. Basado en el juego de mesa \"Gardens\", creado por Pere Pau Listosella." ,
-		username = "Usuario",
+		username = "Nombre de usuario",
 		signup = "No estás identificado",
 		conect = "Conéctate usando:",
 		ooo = "O",

@@ -1,34 +1,21 @@
-
 --<< Textos del menu principal >>--
-
 local tableText = {
-
 --blancas 
-btnPlay = "Jugar Local",
+	btnPlay = "Jugar Local",
+	btnClasic = "Modo Clásico",
+	btnDuel = "Modo Duelo",
+	btnOnline = "Jugar Online",
+	btnShop   = "Tienda sombrerero",
 
-btnClasic = "Modo Clasico",
-btnDuel = "Modo Duelo",
-btnShop = "Tienda",
---btnGetCoins = "Gana monedas",
-btnOnline = "Jugar Online",
-btnHowPlay = "Cómo jugar",
-btnTuto = "Tutorial",
-btnRules = "Reglas",
-btnNewGame = "Partida nueva",
-
-savedGames = "Partidas guardadas", 
-
-smsDelete1 = "Borra una partida guardada para",
-smsDelete2 = "poder crear una nueva",
-
-smsDeletePop = "Quieres borrar la partida",
-
-
---negras 
-errorNC1 = "No ha conexion a internet",
-errorNC2 ="Por favor conecta antes de volver a intentarlo",
-
-	
+	btnHowPlay = "Còmo jugar",
+	btnTuto = "Tutorial",
+	btnRules = "Reglas",
+	btnNewGame = "Juego nuevo",
+	savedGames = "Juegos guardados", 
+	smsDelete1 = "Borra un juego guardado para",
+	smsDelete2 = "poder crear una nueva",
+	smsDeletePop = "¿Quieres borrar el juego?"
+	errorNC1 = "No dispones de conexiòn a Internet",
+	errorNC2 ="Por favor conèctate a Internet antes de volver a intentarlo",
 }
-
 return tableText
