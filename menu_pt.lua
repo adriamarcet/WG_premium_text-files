@@ -1,36 +1,21 @@
-
 --<< Textos del menu principal >>--
-
 local tableText = {
-
---blancas
-
-btnPlay = "Play Local",
-btnOnline = "Play Online",
-
-btnClasic = "Clasic Mode",
-btnDuel = "Duel Mode",
-btnNewGame = "New Game",
-			
-btnShop = "Shop",
---btnGetCoins = "Get coins",
-btnHowPlay = "How to play",
-
-btnTuto = "Tutorial",
-btnRules = "Rules",
-			
-
-savedGames = "Saved Games", 
-smsDelete1 = "Delete a game to can create a ",
-smsDelete2 = "new one",
-
-smsDeletePop = "Do you want to delete",
-			
-
---negras
-errorNC1 = "There isn't internet conection",
-errorNC2 ="Please reconect before trying it again."
-	
+	--<< START translate >>--
+	btnPlay = "Jogar Local",
+	btnClasic = "Modo Clássico",
+	btnDuel = "Modo Duelo",
+	btnOnline = "Jogar Online",
+	btnShop   = "Loja do Chapeleiro",
+	btnHowPlay = "Como jogar",
+	btnTuto = "Tutorial",
+	btnRules = "Regras",
+	btnNewGame = "Novo jogo",
+	savedGames = "Jogos salvos", 
+	smsDelete1 = "Elimina um jogo salvo para",
+	smsDelete2 = "poder criar um novo",
+	smsDeletePop = "Quer eliminar o jogo?"
+	errorNC1 = "Não há conexão à Internet",
+	errorNC2 = "Por favor, conecte-se antes de tentar novamente",
+	--<< END translate >>--	
 }
-
 return tableText

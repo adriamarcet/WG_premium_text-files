@@ -1,12 +1,11 @@
-local tableText = {
-	
---blancas 
-title = "Online Duel",
-urTurn = "It's your turn!",
-newGame = "Create new game",
-friendDuel = "Challenge friend",
-randomDuel = "Random Opponent",
-waitingForOpponent = "Waiting for opponent",
+local tableText = {	
+	--<< START translate >>--
+	title = "Duelo Online",
+	urTurn = "É o seu turno!",
+	newGame = "Criar nova partida",
+	friendDuel = "Desafiar amigo",
+	randomDuel = "Rival aleatório",
+	waitingForOpponent = "Esperando oponente ...",
+	--<< END translate >>--
 }
-
 return tableText

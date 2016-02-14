@@ -1,8 +1,5 @@
 --<< Textos del ingame >>--
-
 local tableText = {
-
-	--blancas
 	--<< START translate >>--
 	inicioTurno = "é a sua vez de jogar",--turnState.name.."é a sua vez de jogar"
 	descartar   = "Quer descartar este ajulejo?",
@@ -10,38 +7,24 @@ local tableText = {
 	movimientoIni = "Clique no caminho",--..cor.." para mover o soldado"
 	movimientoFin = " para mover o soldado",
 	movimientoTorre = {
-		["01"]   = "Selecione uma torre",
-		["02"]  = " e mova-a",
+	["01"]   = "Selecione uma torre",
+	["02"]  = " e mova-a",
 	},
-
-	-- azul = "azul",
-	-- rojo = "vermelha",
-	-- blanco = "branca",
-	-- amarillo = "amarela",
-
 	btnSetSalir     ="Salvar e sair",
 	btnSetContinuar = "Continuar jogando",
-
-	nameSaveGame = "Nome do jogo salvo",
+	nameSaveGame = "Nome do jogo guardado",
+	gameName = "Jogo",
+	clasificacion = "Clasificação",
+	winner = "Vencedor!",
+	loserDuelo = "Derrotado",
+	waitingPlayer = "Esperando seu oponente",
+	mensajeConejoMonedas1 = "Você ganhou", --X
+	mensajeConejoMonedas2 = "Coelhomoedas",
 	--<< END translate >>--
 
-	----------text nou--------------
-	gameName = "Game ",
-
-	clasificacion = "Clasification",
-	winner = "Winner!",
-	loserDuelo = "Loser",
-
-	waitingPlayer = "Waiting for opponent",
-
-	mensajeConejoMonedas1 = "You get ", --X
-	mensajeConejoMonedas2 = "BunnyCoin",
-	--------------------------------
-	--negras
 	--<< START translate >>--
 	error1 = "           deve ter menos de 15 caracteres",
 	error2 = "Erro: o nome introduzido é incorreto,"
 	--<< END translate >>--
 }
-
 return tableText

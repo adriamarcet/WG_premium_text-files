@@ -1,5 +1,4 @@
 --<< Textos del settings scene >>--
-
 local tableText = {
 	
 	blancas = {
@@ -11,17 +10,14 @@ local tableText = {
 		sound = "Sons",
 		idiom = "Idioma",
 		credits = "Créditos",
-
-		showCredits = "Show Credits",
-
+		showCredits = "Mostrar créditos",
 		followFB = "Siga-nos no Facebook",
 		closeUser = "Fechar sessão",
 		createUser = "Criar conta",
 		signup = "Iniciar sessão",
 		createCaja = "Criando uma conta nova",
-
 		identificate = "Identifique-se",
-		cancel = "Cancelar"
+		cancel = "Cancelar",
 		--<< END translate >>--
 	},
 
@@ -55,5 +51,4 @@ local tableText = {
 		--<< END translate >>--
 	}
 }
-
 return tableText

@@ -16,7 +16,7 @@ local tableText = {
 	"Pilar Azpiroz",
 	"\n"," ",
 	"Translators",
-	"Español Latino", "Guillermo Issa Martínez",
+	"Español Latino","Guillermo Issa Martínez",
 	"Deustch","Lucia Castro",
 	"Français","Jean-Noel Guenot",
 	"Português","Marina Forato",
