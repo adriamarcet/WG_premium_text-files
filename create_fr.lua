@@ -1,7 +1,5 @@
 --<< Textos del createGame >>--
-
-local tableText = {
-	
+local tableText = {	
 	--blancas
 	--<< START translate >>--
 	title1 = "Selectionner le nombre de joueurs",
@@ -9,23 +7,21 @@ local tableText = {
 	twoplayer = "2 joueurs",
 	threeplayer = "3 joueurs",
 	fourplayer = "4 joueurs",
-
-	---------nou----------
-	clasica = "Clasic Mode",
-	duelo   = "Duel Mode",
-	online  = "Online Mode",
-	----------------------
-	
+	clasica = "Classique",
+	duelo   = "Duel",
+	online  = "En ligne",
+	title2 = "Nouvelle partie",
 	playerHud = "Joueurs",
-	-- azul = "Bleu",
-	-- blanco = "Blanc",
-	-- rojo = "Jaune",
-	-- amarillo = "Rouge",
+	azul = "Bleu",
+	blanco = "Blanc",
+	rojo = "Jaune",
+	amarillo = "Rouge",
 	btnPlay = "Jouer",
 	--<< END translate >>--
 
 	--negras
 	--<< START translate >>--
+	player = "Joueur",
 	player = "Humain",
 	ia = "Robot",
 	easy = "Facile",
@@ -33,5 +29,4 @@ local tableText = {
 	hard = "Difficile",
 	--<< END translate >>--
 }
-
 return tableText

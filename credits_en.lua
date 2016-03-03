@@ -18,10 +18,10 @@ local tableText = {
 	"Translators",
 	"Español Latino","Guillermo Issa Martínez",
 	"Deustch","Lucia Castro",
-	"Français","Jean-Noel Guenot",
+	"Français","Jean-Noël Guenot",
 	"Português","Marina Forato",
 	"English","Jofre Bellés",
-	"Italiano","Esther Guerini",
+	"Italiano","Ester Guerini",
 	"Acknowledgment",
 	"This game wouldn´t be possible without the valuable help of", "Lorenzo Ramírez, Carmenchi Sánchez,",
 	"and all friends and family who suported this project."
