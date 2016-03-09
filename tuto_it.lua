@@ -6,9 +6,10 @@ local tableText = {
 		btnSetContinuar = "Continua a giocare",
 		btnFinAcabar    = "Chiudi",
 		btnFinContinuar = "Continua"
-		--<< END translate >>--	
+		--<< END translate >>--
 	},
 	negras = {
+		--<< START translate // transform && for \n and remove line comments (--<<)when applied >>--
 		"Benvenuto nel Paese delle Meraviglie!\nSono Alice, la tua guida di Wonder Gardens. Ti insegnerò tutto quello che devi sapere per giocare...\n e vincere!",
 		"Nel ruolo di emissario di una delle quattro regine, la tua missione è colorare tutte le rose del suo colore!",
 		"Che il gioco abbia inizio! In questa partita tu sei il giocatore ROSSO, e sarai l'ultimo dei giocatori che giocherà il proprio turno...",
@@ -33,8 +34,9 @@ local tableText = {
 		"È di nuovo il tuo turno! È ora di usare la tua tessera magica! Una volta per partita hai la possibilità di tramutare la tua tessera attuale in una tessera magica che avrà le sue 4 sezioni del tuo colore",
 		"Tocca il tuo simbolo magico nella forma a cuore per attivarlo, poi posiziona la tessera nella posizione indicata.",
 		"Questo è tutto quello che devi sapere per giocare!\nDivertiti giocando con i tuoi amici e ricorda che puoi ottenere nuovi cappelli e armi usando le Monete coniglio.\nVisita il negozio per personalizzare i tuoi soldati.\nA presto!",
-		"¡Get hats and polearms with Bunnycoins earned at the and of a game. && You can visit Mad Hatter´s shop to customize your soldier. && See you soon!",
+		"Compra cappelli e lance utilizzando le Monete coniglio ottenute alla fine di una partita. && Visita il Negozio del Cappellaio Matto per personalizzare i tuoi soldati. && A presto!",
 		"Hai finito il tutorial, vuoi continuare la partita per raggiungere i 7 punti?",
+		--<< END translate >>--
 	}
 }
 return tableText

@@ -1,9 +1,9 @@
 local tableText = {
-	title = "Friends",
-	addFriend = "Add friend",
-	addWithGame = "Add more friends with ...",
-	pressing = "Add more friends by pressing \"+\"",
-	solicitud = "The following user wants to be your friend",
-	notLogged = "You are not logged in, to invite friends log in or create a new account. \nYou can do that in the options menu."
+	title = "Amici",
+	addFriend = "Aggiungi amico",
+	addWithGame = "Aggiungi più amici con...",
+	pressing = "Aggiungi più amici toccando \"+\"",
+	solicitud = "Il seguente utente vuole essere tuo amico",
+	notLogged = "Non hai effettuato l'accesso, per invitare amici devi accedere o creare un nuovo account. \nPuoi effettuare queste operazioni nel menu Opzioni."
 }
 return tableText

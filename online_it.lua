@@ -1,9 +1,9 @@
 local tableText = {
-	title = "Online Duel",
-	urTurn = "It's your turn!",
-	newGame = "Create new game",
-	friendDuel = "Challenge friend",
-	randomDuel = "Random opponent",
-	waitingForOpponent = "Waiting for an opponent...",
+	title = "Duello online",
+	urTurn = "È il tuo turno!",
+	newGame = "Crea una nuova partita",
+	friendDuel = "Sfida un amico",
+	randomDuel = "Avversario casuale",
+	waitingForOpponent = "In attesa di un avversario...",
 }
 return tableText

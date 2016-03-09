@@ -26,7 +26,7 @@ local tableText = {
 		"¡Tu turno otra vez! Coloca la loseta con una porción blanca en esta posición para anular un posible punto del jugador Azul.",
 		"Aprieta OK para aceptar",
 		"Muy bien! Como ves, al cerrar un rosal con un numero igual de porciones de cada color, anula el punto.\nUsa esta estrategia para perjudicar a tu rival.",
-		"Lo veia venir ...\nRecuerda que puedes descartar una loseta para subir un soldado a la reserva. ",
+		"Lo veia venir...\nRecuerda que puedes descartar una loseta para subir un soldado a la reserva. ",
 		"Bloquear a tu oponente le hará perder tiempo mientras tu anotas valiosos puntos!  Combina tu segundo soldado y las torres para ser más efectivo.",
 		"Ya sabes todo lo necesario para ganar en el modo duelo!\nRecuerda que en el modo duelo ganarás la partida al anotar 5 puntos." ,
 		"También puedes retar a tus amigos o a otros jugadores  en el modo online! Que disfrutes!",

@@ -1,24 +1,37 @@
---[[ commented as it has to be implemented
-	btnSetSalir     = "Exit",
-	btnSetContinuar = "Keep playing",
-	btnFinAcabar    = "Finish",
-	btnFinContinuar = "Continue"
-	--<<"Welcome again! I'm going to show you now how to play at the duel mode&& The gamerules remain the same, but only two players compete&& and you win by earning 5 points.",
-	--<<"Your turn! In the duel, when completing a rosebush with a majority of white portions&& you earn a tower movement point.",
-	--<<"Place the tile to add a white portion and press OK",
-	--<<"Very well! You've earned one tower point!",
-	--<<"Let's get another tower point! Place the tile in order to complete the rosebush with majority of white portions." ,
-	--<<"Press OK to confirm.",
-	--<<"We already have two! After moving your soldiers you can move a tower spending one of these points. ",
-	--<<"Select the tower and move it to the right place to block your opponent. ",
-	--<<"Press OK to confirm your movement.",
-	--<<"Good! Now the blue soldier is blockedn and he should take out the tower or go back to the reserve discarding a tile if he wants to get out. ",
-	--<<"Your turn again! Place the tile with a white portion in this position to void a potential scoring of the Blue player . ",
-	--<<"Press OK to confirm.",
-	--<<"Cool! You see, when you complete a rosebush with an equal number of portions from each color, it becomes null point. && Use this strategy to get in your opponent's way.",
-	--<<"I saw it coming ...&& Remember that you can discard a tile to send back a soldier to the reserve. ",
-	--<<"By blocking your opponent you'll make him lose valuable time while you score points! Combine your second soldier and the towers to be much more effective.",
-	--<<"You know everything you need to win the duel! && Remember in the duel mode you win the game by scoring just 5 points." ,
-	--<<"You can also challenge your friends or other players in the online mode! Enjoy!",
-	--<<"You've finished the duel mode  tutorial, do you want to continue the game until 5 points?",
-]]
+--<< Textos del tutorial >>--
+local tableText = {
+
+	blancas = {
+		--<< START translate >>--
+		btnSetSalir     = "Esci",
+		btnSetContinuar = "Continua a giocare",
+		btnFinAcabar    = "Fine",
+		btnFinContinuar = "Continua"
+		--<< END translate >>--
+	},
+
+	negras = {
+		--<< START translate // transform && for \n and remove line comments (--<<)when applied >>--
+		"Benvenuto di nuovo! Ti mostrerò come giocare alla Modalità Duello&& Le regole di gioco sono le stesse ma solo due giocatori competono&& e si vince ottenendo 5 punti.",
+		"È il tuo turno! Nel Duello, se completi un rosaio con la maggioranza delle sezioni di colore bianco&& otterrai un punto movimento torre.",
+		"Posiziona la tessera in modo da aggiungere una sezione bianca e tocca OK",
+		"Molto bene! Hai ottenuto un punto torre!",
+		"Forza, guadagnamo un altro punto torre! Posiziona la tessera in modo da completare il rosaio con la maggioranza di sezioni di colore bianco." ,
+		"Tocca OK per confermare.",
+		"Ne abbiamo già due! Dopo aver spostato i tuoi soldati, puoi spostare una torre spendendo uno dei relativi punti. ",
+		"Seleziona la torre e spostala al posto giusto per fare in modo di bloccare il tuo avversario. ",
+		"Tocca OK per confermare il tuo movimento.",
+		"Bene! Ora il soldato blu è bloccato, per uscire da lì dovrà rimuovere quella torre o tornare nelle riserve e scartare una tessera. ",
+		"Tocca di nuovo a te! Posiziona la tessera con la sezione bianca in questa posizione per evitare che il giocatore blu faccia punto. ",
+		"Tocca OK per confermare.",
+		"Perfetto! Vedi, quando completi un rosaio con lo stesso numero di sezioni di diversi colori, il punto è nullo. && Usa questa strategia per mettere i bastoni fra le ruote del tuo avversario.",
+		"Ah, lo sapevo...&& Ricorda che puoi scartare una tessera per rimandare un soldato nelle riserve. ",
+		"Bloccando il tuo avversario gli farai perdere del tempo prezioso, mentre tu segnerai punti! Utilizza il tuo secondo soldato e le torri per essere molto più efficiente.",
+		"Ora conosci tutto quello che devi sapere per vincere un duello! && Ricorda che nella Modalità Duello, vinci segnando solo 5 punti." ,
+		"Puoi anche sfidare i tuoi amici o altri giocatori nella Modalità Online! Divertiti!",
+		"Hai completato il tutorial della Modalità Duello, vuoi continuare la partita fino al raggiungimento dei 5 punti?",
+		--<< END translate >>--
+		}
+	}
+
+return tableText

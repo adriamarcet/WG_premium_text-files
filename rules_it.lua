@@ -9,7 +9,7 @@ local tableText = {
 		pag4 = "SCARTARE LE TESSERE",
 		pag5 = "LA TESSERA MAGICA",
 		pag6 = "POSIZIONARE IL TUO SECONDO SOLDATO",
-		pag7 = "DUEL MODE IT",
+		pag7 = "MODALITÀ DUELLO",
 		--<< END translate >>--
 	},
 	negras = {
@@ -21,20 +21,20 @@ local tableText = {
 		pag4 = "Potrebbe capitare che non vorrai posizionare la tua nuova tessera nel giardino, potrai scartarla trascinandola nel cappello (posizionato nell'angolo in basso a destra dello schermo). \nDopo aver confermato questa azione toccando "OK ", un soldato a tua scelta sarà rimosso dal giardino e rientrerà nel gruppo riserve. \nNel tuo prossimo turno potrai far rientrare in gioco quel soldato.", 
 		pag5 = "Se tocchi l'icona col simbolo della tua regina, la tua tessera attuale si tramuterà in una tessera magica che avrà le sue 4 sezioni del tuo colore. \nToccando nuovamente l'icona, la tessera tornerà al suo stato originale. \nQuesta abilità sarà disponibile una sola volta per partita, quindi fanne buon uso!", 
 		pag6 = "Un secondo soldato è a tua disposizione nel gruppo riserve (sullo schermo, in alto a destra). Ogni volta che posizioni una tessera nel giardino, potrai decidere di aggiungere questo soldato alla tessera, mettendolo in gioco. \nQuesto ti consentirà di posizionare la tessera in molte altre posizioni, dato che non ci sarà nessun soldato rivale ad ostacolarti. Potrai aggiungere il secondo soldato toccando la sua icona nel gruppo riserve. \nUna volta che entrambi i soldati sono in gioco, dopo aver posizionato la tessera, potrai spostare il secondo soldato per fare in modo di bloccare i tuoi rivali", 
-		pag7 = "In duel mode the red and blue teams play and victory is within 5 points.\nThe rules are the same as in the Classic Mode, but in addition there are two towers in that you can move to block your opponent. \nWhen completing a rosebush with a majority of white portions, you get a tower movement. \nAt the end of your turn you can move one of the two towers spending tower movement points. \nA tower moves the same way as a soldier and blocks the way to all soldiers in the game. When moving one of the towers, confirm by pressing "OK" and your turn will end immediately. (if you don't want to make any move just press "OK") ",
+		pag7 = "Nella Modalità Duello le squadre rossa e blu si sfidano fino alla vittoria, ottenibile al raggiungimento di 5 punti.\nLe regole sono le stesse della Modalità Classica ma, in più, troverai due torri che potrai spostare per bloccare il tuo avversario. \nQuando completi un rosaio con la maggioranza delle sezioni di colore bianco, ottieni l'opportunità di muovere una torre. \nAlla fine del tuo turno puoi spostare una delle due torri spendendo un punto movimento torre. \nUna torre si sposta nello stesso modo di un soldato e blocca la strada a tutti i soldati in gioco. Quando sposti una delle torri, conferma toccando "OK" e il tuo turno finirà immediatamente (se non vuoi fare nessuna mossa, tocca semplicemente "OK"). ",
 		--<< END translate >>--
 	},
 	peusFoto = {
-		--<< START translate // transform && for \n when applied >>--
-		pag1 = "Red majority = Red player scores" ,
-		pag1b = "Equality of portions = Null point",
-		pag3 = "Drag the tile to the board",
-		pag3b = "Touch the tile to rotate",
-		pag4 = "You'll get back a soldier when discarding a tile",
-		pag5 = "Touch your symbol to transform your tile once per game",
-		pag6 = "touch the soldier icon to place it on your current tile",
-		pag7 = "You earn 1 tower point",
-		pag7b = "You can make a movement spending 1 tower point",
+		--<< START translate >>--
+		pag1 = "Maggioranza rosso = Il giocatore rosso fa punto" ,
+		pag1b = "Parità di sezioni = Punto nullo",
+		pag3 = "Trascina la tessera sul tabellone",
+		pag3b = "Tocca la tessera per ruotarla",
+		pag4 = "Quando scarti una tessara, un soldato tornerà tra le tue riserve",
+		pag5 = "Tocca il tuo simbolo per trasformare la tua tessera una volta a partita",
+		pag6 = "tocca l'icona del soldato per posizionarlo sulla tua tessera attuale",
+		pag7 = "Ottieni 1 punto torre",
+		pag7b = "Puoi compiere un movimento spendendo 1 punto torre",
 		--<< END translate >>--
 	}
 }
