@@ -21,10 +21,10 @@ local tableText = {
 
 	["negras"] = {
 		--<< START translate >>--
-		credits = "Wonder Gardens è stato progettato e programmato da Playtypus. Basandosi sul gioco da tavolo \"Gardens\", creato da Perepau Llistosella." ,
+		credits = "Wonder Gardens è stato progettato e programmato da Playtypus. Basandosi sul gioco da tavolo \"Gardens\", creato da Pere Pau Listosella." ,
 		username = "Nome utente",
 		signup = "Non hai effettuato l'accesso",
-		conect = "Accedi come:",
+		conect = "Accedi con:",
 		ooo = "O",
 		nickname = "Nome utente",
 		mail = "Indirizzo e-mail",

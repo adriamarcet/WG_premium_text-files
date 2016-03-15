@@ -2,8 +2,8 @@
 local tableText = {
 	--<< START translate >>--
 	btnPlay = "Partita Locale",
-	btnClasic = "Modalità Classica",
-	btnDuel = "Modalità Duello",
+	btnClasic = "Mod. Classica",
+	btnDuel = "Mod. Duello",
 	btnOnline = "Partita Online",
 	btnShop = "Negozio del Cappellaio Matto",
 	btnHowPlay = "Come giocare",

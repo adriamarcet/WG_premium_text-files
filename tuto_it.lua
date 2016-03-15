@@ -10,11 +10,11 @@ local tableText = {
 	},
 	negras = {
 		--<< START translate // transform && for \n and remove line comments (--<<)when applied >>--
-		"Benvenuto nel Paese delle Meraviglie!\nSono Alice, la tua guida di Wonder Gardens. Ti insegnerò tutto quello che devi sapere per giocare...\n e vincere!",
+		"Benvenuto nel Paese delle Meraviglie!\nSono Alice, la tua guida di Wonder Gardens. Ti insegnerò tutto quello che devi sapere per giocare...\ne vincere!",
 		"Nel ruolo di emissario di una delle quattro regine, la tua missione è colorare tutte le rose del suo colore!",
 		"Che il gioco abbia inizio! In questa partita tu sei il giocatore ROSSO, e sarai l'ultimo dei giocatori che giocherà il proprio turno...",
 		"È il tuo turno! Posiziona la tua tessera toccando la posizione indicata o trascinando la tessera con il dito.",
-		"Ora tocca la tessera per farla routare fino a quando due sezioni rosse combaceranno col rosaio. (Ruoterà solamente quando i sentieri combaceranno con quelli delle tessere adiacenti)" ,
+		"Ora tocca la tessera per farla routare fino a quando due sezioni rosse combaceranno col rosaio (ruoterà solamente quando i sentieri combaceranno con quelli delle tessere adiacenti)." ,
 		"Ora tocca il pulsante \"OK\" per accettare e completare il rosaio.",
 		"Ben fatto! Uno dei tuoi soldati si sposterà sulla tessera che hai appena posizionato." ,
 		"È di nuovo il tuo turno. È ora di segnare qualche punto! Quando completi un rosaio, se la maggior parte delle sezioni è del tuo colore, otterrai 1 punto.",
@@ -31,7 +31,7 @@ local tableText = {
 		"Trascina la tessera nell'angolo in basso a destra dello schermo e mettila nel cappello che comparirà. Poi tocca il pulsante \"OK\" per confermare.",
 		"Scegli quale dei due soldati vuoi recuperare.",
 		"Perfetto! Come al solito, scegli il sentiero adatto al tuo secondo soldato e completa il tuo turno toccando il pulsante \"OK\" .",
-		"È di nuovo il tuo turno! È ora di usare la tua tessera magica! Una volta per partita hai la possibilità di tramutare la tua tessera attuale in una tessera magica che avrà le sue 4 sezioni del tuo colore",
+		"È di nuovo il tuo turno! È ora di usare la tua tessera magica! Una volta per partita hai la possibilità di tramutare la tua tessera attuale in una tessera magica che avrà le sue 4 sezioni del tuo colore.",
 		"Tocca il tuo simbolo magico nella forma a cuore per attivarlo, poi posiziona la tessera nella posizione indicata.",
 		"Questo è tutto quello che devi sapere per giocare!\nDivertiti giocando con i tuoi amici e ricorda che puoi ottenere nuovi cappelli e armi usando le Monete coniglio.\nVisita il negozio per personalizzare i tuoi soldati.\nA presto!",
 		"Compra cappelli e lance utilizzando le Monete coniglio ottenute alla fine di una partita. && Visita il Negozio del Cappellaio Matto per personalizzare i tuoi soldati. && A presto!",
